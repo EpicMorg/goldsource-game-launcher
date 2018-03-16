@@ -1,0 +1,31 @@
+﻿{
+  "version": "0.0.0.1",
+  "api": 1,
+  "system": {
+    "description": "THIS IS OEM SETTINGS, DO NOT EDIT THIS BLOCK!",
+    "url": [
+      {
+        "url_news": "https://armageddon.epicm.org/news.html",
+        "url_bans": "http://bans.games.epicm.org/",
+        "url_downloads": "http://files.armageddon.epicm.org/",
+        "url_dir_updates": "updates",
+        "url_dir_client_dll": "client_dll",
+        "url_dir_client_lang": "client_lang",
+        "url_dir_server_cache": "server_cache"
+      }
+    ],
+    "files": [
+      {
+        "json_updates": "updates.json",
+        "json_servers": "servers.json",
+        "zip_client_dll_original": "client_dll_original.zip",
+        "zip_client_dll_original_beta": "client_dll_original_beta.zip",
+        "zip_client_dll_rofi_nghl": "client_dll_rofi_nghl.zip",
+        "zip_client_dll_aghl": "client_dll_aghl.zip",
+        "zip_client_lang_text_zog": "client_lang_text_zog.zip",
+        "zip_client_lang_voice_zog": "client_lang_voice_zog.zip",
+        "zip_server_cache": "server_cache.zip"
+      }
+    ]
+  }
+}

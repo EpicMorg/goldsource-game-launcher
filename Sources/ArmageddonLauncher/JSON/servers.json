@@ -1,0 +1,10 @@
+﻿{
+  "version": "0.0.0.02",
+  "api": 1,
+  "data": {
+      "own_list": [
+      ],
+      "friend_list": [
+      ]
+    }
+  }

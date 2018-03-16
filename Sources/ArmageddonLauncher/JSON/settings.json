@@ -1,0 +1,45 @@
+﻿{
+  "version": "0.0.0.1",
+  "api": 1,
+  "settings": {
+    "launcher": {
+      "language": {
+        "languege_set": "en_US",
+        "language_available": [ "en_US", "ru_RU", "uk_UA" ]
+      },
+      "theme": {
+        "theme_set": "Dark",
+        "theme_available": [ "Default", "Dark", "Light" ]
+      },
+      "style": {
+        "style_set": "Orange",
+        "style_available": [ "Default", "Black", "White", "Silver", "Blue", "Green", "Lime", "Teal", "Orange", "Brown", "Pink", "Magenta", "Purple", "Red", "Yellow" ]
+      },
+      "hide_me_when_game_start": true,
+      "check_for_updates_on_startup": true
+    },
+    "game": {
+      "language": { 
+        "language_set": "ru_RU",
+        "language_available": {
+          "en_US": {
+            "text_set": "original_steam",
+            "voice_set": "original_steam",
+            "text_available": [ "original_steam" ],
+            "voice_available": [ "original_steam" ]
+          },
+          "ru_RU": {
+            "text_set": "ZOG",
+            "voice_set": "ZOG",
+            "text_available":  [ "none", "original_steam", "ZOG" ],
+            "voice_available": [ "none", "ZOG" ]
+          }
+        }
+      },
+      "client_dll": {
+        "client_dll_set": "original",
+        "client_dll_available": [ "original", "original_beta", "rofi_nghl", "aghl" ]
+      }
+    }
+  }
+}
